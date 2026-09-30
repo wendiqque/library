@@ -31,7 +31,7 @@ export default function Page() {
                 FIRST NAME / SURNAME
               </span>
               <span className="text-2xl sm:text-3xl font-light text-gray-800">
-                Keisha
+                Donny
               </span>
             </div>
 
